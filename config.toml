@@ -1,0 +1,5 @@
+# Configuration for the Auracast server
+
+[[streams]]
+name = "My Awesome Audio Stream"
+password = "supersecret"
